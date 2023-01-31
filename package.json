@@ -1,8 +1,5 @@
 {
   "name": "@muhaqiq/transcriber",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/muhaqiq"
-  },
   "version": "0.0.1",
   "repository": "https://github.com/muhaqiq/transcriber",
   "author": "Mahmoud Kozae",
